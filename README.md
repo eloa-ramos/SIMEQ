@@ -21,3 +21,4 @@ A **Youtan** de São José dos Campos, possui dificuldade na gestão dos PDIs de
 
 ## 📌 Solução <a id="solucao"></a>
 A solução proposta foi o desenvolvimento de um sistema que permite a organização dos encontros, por meio do cadastro de mães partipantes, o gerenciamentos dos serviços e a emissão de relatórios sobre as atividades realizadas.
+
